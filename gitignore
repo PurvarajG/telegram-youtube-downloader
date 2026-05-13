@@ -1,0 +1,27 @@
+# Environment variables — never commit your bot token
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Downloaded media files
+downloads/
+*.mp4
+*.mkv
+*.webm
+*.mp3
+*.m4a
+*.wav
+*.flac
+
+# OS files
+.DS_Store
+Thumbs.db
